@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+html,body{
+    height: 100%;
+}
+
+section.descricao p{
+    color:#6c757d;
+   border-bottom: 1px solid gray;
+}
+
+.description{
+    position:absolute;
+    left: 20%;
+    top: -300px;
+    width: 80%;
+    height: 100%;
+    padding:0 3%;
+    
+}
+section.descricao{
+    margin-top: 20px;
+ }
+section.descricao:first-child{
+   margin-top: 250px;
+}
